@@ -1,4 +1,4 @@
-import Post from "components/Post";
+import Post from "components/PostCard";
 import styles from "./Inicio.module.css"
 import posts from "json/posts.json"
 export default function Inicio(){
